@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:sqflite/sqflite.dart';
+// ignore: depend_on_referenced_packages
 import 'package:path/path.dart';
 
 class DbHelper {
